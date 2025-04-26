@@ -1,6 +1,6 @@
 # Roadmap Ciência de Dados Portfolio
 
-**Descrição:** Roadmap prático de Ciência de Dados como projeto de portfólio para candidaturas.
+**Descrição:** Este repositório contém meu portfólio de aprendizado em Data Science. O projeto está estruturado em fases, que vão desde o básico de Python até a implementação de modelos de Machine Learning. Cada fase contém exercícios práticos e teóricos que refletem o progresso contínuo do meu aprendizado. O objetivo é aplicar técnicas reais de Data Science em projetos de análise de dados e modelagem.
 
 ## Índice
 
