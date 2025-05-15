@@ -1,7 +1,7 @@
 # Fase 0 – A Forja da Lógica
 
-- [ ] Variáveis, Tipos e Operadores
-- [ ] Condicionais (if, elif, else)
+- [ ] [Variáveis, Tipos e Operadores](variaveis_tipos_e_operadores.py)
+- [ ] [Condicionais (if, elif, else)](condicionais.py)
 - [ ] Laços (for, while)
 - [ ] Funções
 - [ ] Listas, Dicionários, Tuplas, Conjuntos
