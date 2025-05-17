@@ -1,5 +1,6 @@
 # Fase 0 – A Forja da Lógica
 
+- [x] [Intro(explicação sobre o roadmap)](intro.py)
 - [ ] [Variáveis, Tipos e Operadores](variaveis_tipos_e_operadores.py)
 - [ ] [Condicionais (if, elif, else)](condicionais.py)
 - [ ] Laços (for, while)
