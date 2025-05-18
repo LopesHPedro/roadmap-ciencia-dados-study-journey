@@ -2,8 +2,8 @@
 
 - [x] [Intro(explicação sobre o roadmap)](intro.py)
 - [x] [Variáveis, Tipos e Operadores](variaveis_tipos_e_operadores.py)
-- [ ] [Condicionais (if, elif, else)](condicionais.py)
-- [ ] Laços (for, while)
+- [x] [Condicionais (if, elif, else)](condicionais.py)
+- [ ] [Laços (for, while)](lacos.py)
 - [ ] Funções
 - [ ] Listas, Dicionários, Tuplas, Conjuntos
 - [ ] Manipulação de Strings
