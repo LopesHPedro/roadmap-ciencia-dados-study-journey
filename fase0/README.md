@@ -5,8 +5,8 @@
 - [x] [Condicionais (if, elif, else)](condicionais.py)
 - [x] [Laços (for, while)](lacos.py)
 - [ ] Funções
+- [ ] Strings e Manipulacão de Strings
 - [ ] Listas, Dicionários, Tuplas, Conjuntos
-- [ ] Manipulação de Strings
 - [ ] Compreensões de Lista
 - [ ] Arquivos .txt, .csv
 - [ ] Módulos e Pacotes
