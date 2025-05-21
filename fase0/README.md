@@ -6,7 +6,7 @@
 - [x] [Variáveis, Tipos e Operadores](variaveis_tipos_e_operadores.py)
 - [x] [Condicionais (if, elif, else)](condicionais.py)
 - [x] [Laços (for, while)](lacos.py)
-- [ ] Funções
+- [x] Funções
 - [ ] Strings e Manipulacão de Strings
 - [ ] Listas, Dicionários, Tuplas, Conjuntos
 - [ ] Compreensões de Lista
