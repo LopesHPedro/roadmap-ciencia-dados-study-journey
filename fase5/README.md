@@ -1,4 +1,9 @@
-# Fase 5 – O Chamado da Inteligência Artificial
+# Fase 5 – A Matemágica dos Dados
 
-- [ ] Redes Neurais com Keras / TensorFlow
-- [ ] CNNs, RNNs, LSTMs
+> Matemática prática e aplicada
+
+- [ ] Estatística Descritiva
+- [ ] Probabilidade
+- [ ] Álgebra Linear (Vetores, Matrizes)
+- [ ] Cálculo
+- [ ] Statsmodels

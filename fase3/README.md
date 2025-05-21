@@ -1,15 +1,10 @@
-# Fase 3 – O Arsenal do Cientista e O Olho do Investigador
+# Fase 3 –  O Mestre dos Modelos
 
-### Bibliotecas e Ferramentas
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Matplotlib / Seaborn
-- [ ] Scikit-learn
-- [ ] Statsmodels
+> Machine Learning com propósito
 
-### Análise de Dados e EDA
-- [ ] Baixar dados (Kaggle, IBGE, OpenData)
-- [ ] Limpeza e análise exploratória
-- [ ] Visualização de insights com gráficos
-- [ ] Documentação em Jupyter Notebook
-- [ ] Subir no GitHub
+- [ ] Regressão Linear e Logística
+- [ ] Árvores de Decisão, Random Forest, KNN
+- [ ] K-Means e Clustering
+- [ ] SVM, Naive Bayes
+- [ ] Overfitting, Underfitting, Cross Validation
+- [ ] Métricas: Accuracy, Precision, Recall, F1

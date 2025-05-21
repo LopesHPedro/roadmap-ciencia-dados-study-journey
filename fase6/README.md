@@ -1,8 +1,9 @@
-# Fase 6 – O Espelho do Mundo
+# Fase 6 – As Chaves do Labirinto
 
-- [ ] Projetos com visualizações e insights
-- [ ] GitHub com README bem escrito
-- [ ] Dashboard com Streamlit ou Dash
-- [ ] Perfil LinkedIn otimizado
-- [ ] Currículo focado em Ciência de Dados
-- [ ] Participar de desafios (Kaggle Competitions)
+> Estruturas de dados e entrevistas técnicas
+
+- [ ] Arrays, Pilhas, Filas
+- [ ] Busca Linear e Binária
+- [ ] Algoritmos de Ordenação (Bubble, Merge, Quick)
+- [ ] Recursão
+- [ ] Notação Big-O

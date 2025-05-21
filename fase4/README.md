@@ -1,8 +1,9 @@
-# Fase 4 – O Mestre dos Modelos
+# Fase 4 – O Espelho do Mundo
 
-- [ ] Regressão Linear e Logística
-- [ ] Árvores, Random Forest, KNN
-- [ ] K-Means e Clustering
-- [ ] SVM, Naive Bayes
-- [ ] Overfitting, Underfitting, Cross Validation
-- [ ] Métricas: Accuracy, Precision, Recall, F1
+> Carreira, visibilidade e impacto
+
+- [ ] Projetos com visualizações e insights
+- [ ] Dashboard com Streamlit ou Dash
+- [ ] Perfil LinkedIn otimizado
+- [ ] Currículo focado em Ciência de Dados
+- [ ] Participar de desafios (Kaggle Competitions)

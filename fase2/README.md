@@ -1,6 +1,9 @@
-# Fase 2 – A Matemágica dos Dados
+# Fase 2 – O Olho do Investigador 
 
-- [ ] Estatística Descritiva
-- [ ] Probabilidade
-- [ ] Álgebra Linear (Vetores, Matrizes)
-- [ ] Cálculo
+> Pipeline de projetos reais com dados abertos
+
+- [ ] Baixar dados (Kaggle, IBGE, OpenData)
+- [ ] Limpeza e análise exploratória
+- [ ] Visualização de insights
+- [ ] Documentação em Jupyter Notebook
+- [ ] Subir no GitHub com README bem escrito
