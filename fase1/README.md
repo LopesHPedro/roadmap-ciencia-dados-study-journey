@@ -1,7 +1,8 @@
-# Fase 1 – As Chaves do Labirinto
+# Fase 1 – O Arsenal do Cientista
 
-- [ ] Arrays, Pilhas, Filas, Dicionários
-- [ ] Busca Linear e Binária
-- [ ] Algoritmos de Ordenação (Bubble, Merge, Quick)
-- [ ] Recursão
-- [ ] Notação Big-O
+> Ferramentas práticas de Data Science
+
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Matplotlib / Seaborn
+- [ ] Scikit-learn
