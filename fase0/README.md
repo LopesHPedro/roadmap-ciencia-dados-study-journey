@@ -8,7 +8,7 @@
 - [x] [Laços (for, while)](lacos.py)
 - [x] [Funções](funcoes.py)
 - [x] [Strings](strings.py)
-- [x] [Listas](listas.py), Dicionários, Tuplas, Conjuntos
+- [x] [Listas](listas.py), [Dicionários](dicionarios.py), Tuplas, Conjuntos
 - [ ] Compreensões de Lista
 - [ ] Arquivos (.txt, .csv)
 - [ ] Módulos e Pacotes
