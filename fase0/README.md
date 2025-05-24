@@ -9,6 +9,6 @@
 - [x] [Funções](funcoes.py)
 - [x] [Strings](strings.py)
 - [x] [Listas](listas.py), [Dicionários](dicionarios.py), [Tuplas](tuplas.py), [Conjuntos](conjuntos.py)
-- [ ] Compreensões de Lista
+- [x] [Compreensões de Lista](compreensoes_lista.py)
 - [ ] Arquivos (.txt, .csv)
 - [ ] Módulos e Pacotes
