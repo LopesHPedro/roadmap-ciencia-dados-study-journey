@@ -11,4 +11,4 @@
 - [x] [Listas](listas.py), [Dicionários](dicionarios.py), [Tuplas](tuplas.py), [Conjuntos](conjuntos.py)
 - [x] [Compreensões de Lista](compreensoes_lista.py)
 - [x] [Arquivos (.txt, .csv)](arquivos.py)
-- [ ] Módulos e Pacotes
+- [x] [Pacotes e Módulos](pacotes_e_modulos.py)
