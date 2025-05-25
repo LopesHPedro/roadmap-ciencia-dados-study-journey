@@ -10,5 +10,5 @@
 - [x] [Strings](strings.py)
 - [x] [Listas](listas.py), [Dicionários](dicionarios.py), [Tuplas](tuplas.py), [Conjuntos](conjuntos.py)
 - [x] [Compreensões de Lista](compreensoes_lista.py)
-- [ ] Arquivos (.txt, .csv)
+- [x] [Arquivos (.txt, .csv)](arquivos.py)
 - [ ] Módulos e Pacotes
