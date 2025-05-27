@@ -2,7 +2,7 @@
 
 > Ferramentas práticas de Data Science
 
-- [ ] NumPy
+- [ ] [NumPy](numpy.ipynb)
 - [ ] Pandas
 - [ ] Matplotlib / Seaborn
 - [ ] Scikit-learn
