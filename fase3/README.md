@@ -1,10 +1,9 @@
-# Fase 3 –  O Mestre dos Modelos
+# Fase 3 – O Olho do Investigador 
 
-> Machine Learning com propósito
+> Pipeline de projetos reais com dados abertos
 
-- [ ] Regressão Linear e Logística
-- [ ] Árvores de Decisão, Random Forest, KNN
-- [ ] K-Means e Clustering
-- [ ] SVM, Naive Bayes
-- [ ] Overfitting, Underfitting, Cross Validation
-- [ ] Métricas: Accuracy, Precision, Recall, F1
+- [ ] Baixar dados (Kaggle, IBGE, OpenData)
+- [ ] Limpeza e análise exploratória
+- [ ] Visualização de insights
+- [ ] Documentação em Jupyter Notebook
+- [ ] Subir no GitHub com README bem escrito

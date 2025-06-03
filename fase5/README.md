@@ -1,9 +1,9 @@
-# Fase 5 – A Matemágica dos Dados
+# Fase 5 – O Espelho do Mundo
 
-> Matemática prática e aplicada
+> Carreira, visibilidade e impacto
 
-- [ ] Estatística Descritiva
-- [ ] Probabilidade
-- [ ] Álgebra Linear (Vetores, Matrizes)
-- [ ] Cálculo
-- [ ] Statsmodels
+- [ ] Projetos com visualizações e insights
+- [ ] Dashboard com Streamlit ou Dash
+- [ ] Perfil LinkedIn otimizado
+- [ ] Currículo focado em Ciência de Dados
+- [ ] Participar de desafios (Kaggle Competitions)
