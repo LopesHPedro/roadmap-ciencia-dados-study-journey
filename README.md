@@ -30,7 +30,7 @@ Como tenho bastante tempo livre, farei as fases de maneira simultânea.
 Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~louco~ determinado!
 
 <p align="center">
-  <img src="https://giphy.com/gifs/caine-zooble-ganglz-kMAPCEYVT4CwUtqHPo" width="300" alt="Troll face" />
+  <img src="https://images.steamusercontent.com/ugc/5102047032369007402/F56FA394FB191EE9C7966D4CE1E34BADEDD6C17F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 
 <p align="center">
