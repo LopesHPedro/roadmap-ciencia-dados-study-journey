@@ -29,9 +29,7 @@ Como tenho bastante tempo livre, farei as fases de maneira simultânea.
 
 Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~louco~ determinado!
 
-<p align="center">
-  <img src="https://tenor.com/b0tf2.gif" />
-</p>
+<div class="tenor-gif-embed" data-postid="27242792" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/phonk-trollface-gif-27242792">Phonk Trollface GIF</a>from <a href="https://tenor.com/search/phonk-gifs">Phonk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <em>Insane effort. Inevitable result.</em>
