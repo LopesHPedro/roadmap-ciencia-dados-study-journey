@@ -2,7 +2,7 @@
 
 > Pipeline de projetos reais com dados abertos
 
-- [ ] Baixar dados (Kaggle, IBGE, OpenData)
+- [x] [Baixar dados](baixar-dados) ([Kaggle](baixar-dados/kaggle/), IBGE, OpenData)
 - [ ] Limpeza e análise exploratória
 - [ ] Visualização de insights
 - [ ] Documentação em Jupyter Notebook
