@@ -30,7 +30,7 @@ Como tenho bastante tempo livre, farei as fases de maneira simultânea.
 Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~louco~ determinado!
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/yckhQzfjLAYAAAAd/phonk-trollface.gif" width="300" alt="Troll face" />
+  <img src="https://tenor.com/b0tf2.gif" />
 </p>
 
 <p align="center">
