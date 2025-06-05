@@ -29,7 +29,10 @@ Como tenho bastante tempo livre, farei as fases de maneira simultânea.
 
 Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~louco~ determinado!
 
+<p align="center">
+  <img src="https://giphy.com/gifs/caine-zooble-ganglz-kMAPCEYVT4CwUtqHPo" width="300" alt="Troll face" />
+</p>
 
 <p align="center">
-  <em>Insane effort. Inevitable result.</em>
+  <em>Insane effort. Inevitable result.</em> 
 </p>
