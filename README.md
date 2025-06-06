@@ -19,15 +19,14 @@ O projeto está estruturado em fases. ~as quais eu vivo mudando.~
 [Exercícios em Python](https://github.com/LopesHPedro/python-exercises) – *Repositório com exercícios complementares de Python.*
 
 ⚠️ **ATENÇÃO:**  
-Após avançar nesse Roadmap, percebi que seria melhor tratar ele de maneira multidisciplinar.  
-Como tenho bastante tempo livre, farei as fases de maneira simultânea.  
-
+Ao avançar nesse roadmap, percebi que não dá pra tratar o conhecimento em caixinhas separadas. Ciência de Dados é uma batalha multidisciplinar — então como isso se tornou minha obsessão vou encarar várias fases ao mesmo tempo.
+  
 - [x] Fase 0 (Sprint 0)  
 - [ ] Fases 1, 3 e 6 (Sprint 1) - Atual  
 - [ ] Fases 2, 4 e 7 (Sprint 2)  
 - [ ] Fases 5 e extra (Sprint 3)  
 
-Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~louco~ determinado!
+Talvez dê um nó na cabeça, mas eu consigo, pois eu sou ~insano~ determinado!
 
 <p align="center">
   <img src="https://images.steamusercontent.com/ugc/5102047032369007402/F56FA394FB191EE9C7966D4CE1E34BADEDD6C17F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
