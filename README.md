@@ -31,5 +31,3 @@ Ao avançar nesse roadmap, percebi que não dá pra tratar o conhecimento em cai
   <img src="https://media1.tenor.com/m/R-szfKd2_OgAAAAd/aum-animation-andy-pirki.gif"
 
 <p align="center">
-  <em>Insane effort. Inevitable result.</em> 
-</p>
