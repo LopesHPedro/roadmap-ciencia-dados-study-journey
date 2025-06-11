@@ -1,8 +1,9 @@
-# Fase 1 – O Arsenal do Cientista
+# Fase 6 – As Chaves do Labirinto
 
-> Ferramentas práticas de Data Science
+> Estruturas de dados e entrevistas técnicas
 
-- [x] [NumPy](numpy.ipynb)
-- [ ] Pandas
-- [ ] Matplotlib / Seaborn
-- [ ] Scikit-learn
+- [ ] Arrays, Pilhas, Filas
+- [ ] Busca Linear e Binária
+- [ ] Algoritmos de Ordenação (Bubble, Merge, Quick)
+- [ ] Recursão
+- [ ] Notação Big-O
