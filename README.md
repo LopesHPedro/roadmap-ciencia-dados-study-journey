@@ -7,7 +7,7 @@ com tópicos detalhados em cada etapa.
 
 ## 🧭 Índice das Fases
 
-- [x] 🛠️ [Fase 0 – A Forja da Lógica](fase0/README.md)
+- [x]  [Fase 0 – O Despertar do Código](fase0/README.md)
 - [ ] 🔐 [Fase 1 – As Chaves do Labirinto](fase1/README.md)
 - [ ] 🎒 [Fase 1 – O Arsenal do Cientista](fase8/README.md)
 - [ ] 🔢 [Fase 2 – A Matemágica dos Dados](fase2/README.md)
