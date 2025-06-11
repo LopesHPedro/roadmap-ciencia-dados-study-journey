@@ -1,4 +1,4 @@
-# Fase 0: O Despertar do Código (Fundamentos de Programação)
+# 🌱 Fase 0: O Despertar do Código (Fundamentos de Programação)
 
 > Esta fase estabelece a base sólida em programação Python, essencial para qualquer cientista de dados.
 
