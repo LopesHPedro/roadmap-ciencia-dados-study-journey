@@ -1,0 +1,4 @@
+Esta é a primeira linha.
+Esta é a segunda linha.
+Esta é uma linha adicionada.
+E Esta é outra linha adicionada.
