@@ -6,9 +6,9 @@
 - [x] [Sintaxe básica, tipos de dados, operadores.](python-essencial/basicos.ipynb)
 - [x] [Estruturas de controle de fluxo (condicionais, laços).](python-essencial/est_fluxo.ipynb)
 - [x] [Estruturas de dados em Python (listas, tuplas, dicionários, conjuntos).](python-essencial/est_dados.ipynb)
-- [ ] [Funções: definição, argumentos, escopo.](python-essencial/funcoes.ipynb)
-- [ ] [Programação Orientada a Objetos (POO) básica: classes, objetos, métodos.](python-essencial/poo.ipynb) 
-- [ ] [Manipulação de arquivos (leitura e escrita).](python-essencial/arquivos.ipynb)
+- [x] [Funções: definição, argumentos, escopo.](python-essencial/funcoes.ipynb)
+- [x] [Programação Orientada a Objetos (POO) básica: classes, objetos, métodos.](python-essencial/poo.ipynb) 
+- [x] [Manipulação de arquivos (leitura e escrita).](python-essencial/arquivos.ipynb)
 
 ### Manipulação de Dados com Bibliotecas Essenciais
 - [ ] [NumPy : Arrays, operações vetorizadas, broadcasting.](manipulacao-dados/numpy.ipynb)
